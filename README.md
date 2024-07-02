@@ -3,6 +3,7 @@
 This project is dedicated to exploring and implementing machine learning techniques to solve real world problems.
 <br>
 <b>Key Features</b>
+<br>
 Data Preprocessing: Includes methods for data cleaning, normalization, and transformation to prepare datasets for analysis.
 <br>
 Model Training: Utilizes various machine learning algorithms, such as linear regression, decision trees, neural networks etc. to build and train models.
